@@ -53,12 +53,12 @@ border-radius: 50px;
 /* contacts */
 
 .contact-title {
-  color: #161d2a;
+  color: #161D2A;
   font-size: 22px;
   font-weight: 700;
   line-height: normal;
   margin-top: 0;
-  margin-botto: 8px;
+  margin-bottom: 8px;
 }
 
 .contacts-type {
@@ -277,8 +277,8 @@ font-weight: 700;
 
 .education-faculty {
   color: #000000;
-  font-size: 14px;
-  font-weight: 700;
+  font-size: 13px;
+  font-weight: 600;
 }
 
 .education-period {
